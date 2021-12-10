@@ -1,0 +1,32 @@
+# Kickstarting with Excel
+  
+## Overview of Project
+-This analysis was conducted to gather information on trends and statistical outcomes of Kickstarter campaigns for plays.
+
+### Purpose
+-The information was analyzed in order to inform my client, Louise, relevant information regarding play fundraising on Kickstarter so that she can make informed choices in her approach to her own Kickstarter project. In specific, I sought to provide Louise with data showing success or failure of Kickstarter fundraising campaigns based on the month of launch date and the dollar amount of the fundraising goal. 
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+-Launch dates proved to play a very important role in success of campaigns. There was a very clear month, May, in which it is best to launch a play Kickstarter based on these data. 
+
+### Analysis of Outcomes Based on Goals
+-Based on fundraising goals, the data showed a high tendency toward success at stratified points, with, perhaps unsurprisingly, a high rate of success with a small goal and low rate of success with a high goal. 
+
+### Challenges and Difficulties Encountered
+-The primary challenge encountered during the analyzation of these data was having to deal with potential outliers when making sense of the findings. For example, in the fundraising range of $40,000 to $44,999 there were only three plays present. This is a very small sample size which made it difficult to assign a relevance to the data.
+
+## Results
+
+-What are two conclusions you can draw about the Outcomes based on Launch Date? 
+Based on the data, launch date proved to play a significant role in the success or failure of Kickstarter campaigns. The most successful Kickstarters for plays were launched in May and declined over the summer months, while the least successful were launched in the winter months of October, November, and December. 
+
+- What can you conclude about the Outcomes based on Goals?
+The data provide interesting information in regards to the fundraising goal. In general, those with fundraising goals of $45,000 or greater were highly likely to fail, while those with goals of less than $1,000 and in the $35,000 to $45,000 were most likely to succeed. Interestingly, a large range of goals spanning from $5,000 to $25,000 were about 50% successful, showing that the small and large fundraising goals were more telling than the mid-range goals. 
+
+- What are some limitations of this dataset?
+Limitations of the dataset include the fact that there were very few data present as fundraising goals increased. While this may be expected, due to the fact that higher fundraising goals are subjectively more challenging to achieve, it does present a challenge in weighing the success vs. failure ratio due to limited sample size. That is, one may be unable to tell if more lofty fundraising goals are successful or not due to lack of attempts recorded in the dataset. 
+
+- What are some other possible tables and/or graphs that we could create?
+A table/graph that I would have been interested in seeing is the success based on deadline. I wonder if the amount of time that the fundraising campaign is active has an effect on its outcome. Does a sense of urgency increase donations? Does a longer campaign succeed due to more time for backers to be exposed to it? 
